@@ -1,6 +1,8 @@
 # Project Title: Deep learning for computer vision 
 **Project Description**
+
 PROJET HAI923I - 2022-2023
+
 This project is a classification project that involves creating baseline models for three different datasets: Tiger, Fox, and Elephant. Then, the project requires proposing improvements to these baseline models to achieve the best classifier for each dataset. Additionally, the project requires generating new data using Image Data Generator and comparing the results of the previous classifiers with the new data. Transfer learning is also applied to the three datasets, and a GAN is used to generate images of foxes. Finally, the content of the CNN outputs is displayed for the most complex model, and an optional task of colorizing images using autoencoders is included.
 Technologies Used
 
